@@ -1,38 +1,38 @@
 [
   {
-    "image": "../assets/sitskoav.png",
+    "image": "assets/sitskoav.png",
     "name": "sitskoav"
   },
   {
-    "image": "../assets/vlasova.png", 
+    "image": "assets/vlasova.png", 
     "name": "vlasova"
   },
     {
-        "image": "../assets/sirotko.png",
+        "image": "assets/sirotko.png",
         "name": "sirotko"
     },
     {
-        "image": "../assets/shvedova.png",
+        "image": "assets/shvedova.png",
         "name": "shvedova"
     },
     {
-        "image": "../assets/bakunov.png",
+        "image": "assets/bakunov.png",
         "name": "bakunov"
     },
     {
-        "image": "../assets/shamyna.png",
+        "image": "assets/shamyna.png",
         "name": "shamyna"
     },
     {
-        "image": "../assets/klimov.png",
+        "image": "assets/klimov.png",
         "name": "klimov"
     },
     {
-        "image": "../assets/gorbachev.png",
+        "image": "assets/gorbachev.png",
         "name": "gorbachev"
     },
     {
-        "image": "../assets/gudel.png",
+        "image": "assets/gudel.png",
         "name": "gudel"
     }
 ]

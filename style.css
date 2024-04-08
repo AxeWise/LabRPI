@@ -74,7 +74,7 @@ p {
 }
 
 .card .back {
-  background-image: url("../assets/bsuir.png"); 
+  background-image: url("assets/bsuir.png"); 
   background-position: center center;
   background-size: cover;
   backface-visibility: hidden;
